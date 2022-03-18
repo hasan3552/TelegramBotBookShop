@@ -1,0 +1,413 @@
+[
+  {
+    "id": 1,
+    "name": "Sariq devni minib",
+    "author": "Hudoyberdi To\u0027xtaboyev",
+    "bookType": "Printer_Book",
+    "category": {
+      "id": 3,
+      "nameUz": "🧙‍♀ BOLALAR ADABIYOTI",
+      "nameRu": "🧙‍♀ ДЕТСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false
+    },
+    "isBlock": false,
+    "price": 30000.0,
+    "language": "Uzbek",
+    "urlPhoto": "AgACAgIAAxkBAAIORmIjl2rPxdmdU8OAJM7cNGAEggEZAAKstzEbLYEgSaBkd_hPFPjvAQADAgADeQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 2,
+    "name": "Shaytanat (1-qism)",
+    "author": "Tohir Malik",
+    "bookType": "Printer_Book",
+    "category": {
+      "id": 2,
+      "nameUz": "🇺🇿 UZBEK ADABIYOTI",
+      "nameRu": "🇺🇿 УЗБЕКСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false
+    },
+    "isBlock": false,
+    "price": 30000.0,
+    "language": "Uzbek",
+    "urlPhoto": "AgACAgIAAxkBAAINf2IjIJbabwarQ8kjP0RNzzNFXgWkAAKItzEbLYEgSVkm8QngofDrAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 3,
+    "name": "Temur Tuzuklari",
+    "author": "Amir Temur",
+    "bookType": "Audio_Book",
+    "category": {
+      "id": 2,
+      "nameUz": "🇺🇿 UZBEK ADABIYOTI",
+      "nameRu": "🇺🇿 УЗБЕКСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false
+    },
+    "isBlock": false,
+    "price": 12000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIQhGIl4JdnSEeDIfspdlL19mcxpxl4AALtuDEbTGcoSV_0SL3dRrjbAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 4,
+    "name": "Temur tuzuklari",
+    "author": "Amir Temur",
+    "bookType": "Printer_Book",
+    "category": {
+      "id": 2,
+      "nameUz": "🇺🇿 UZBEK ADABIYOTI",
+      "nameRu": "🇺🇿 УЗБЕКСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 25000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIQn2Il4YLi57mmmoOnWGOInjIAAbSgMAAC7bgxG0xnKElf9Ei93Ua42wEAAwIAA20AAyME",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 5,
+    "name": "Ingliz tilini o\u0027rganamiz",
+    "author": "Hasan",
+    "bookType": "Printer_Book",
+    "category": {
+      "id": 3,
+      "nameUz": "🧙‍♀ BOLALAR ADABIYOTI",
+      "nameRu": "🧙‍♀ ДЕТСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 15000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIQqmIl4lk6Jq9HvUErtZlQgE42QtJLAALwuDEbTGcoSSoV_JlH7BsuAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 6,
+    "name": "Cho\u0027qintirgan ota(1-qism)",
+    "author": "Mario Pyuao",
+    "bookType": "Printer_Book",
+    "category": {
+      "id": 1,
+      "nameUz": "🏳️ JAHON ADABIYOTI",
+      "nameRu": "🏳️ МИРОВАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 32000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIQs2Il4veltTIxNawzyHNsM6Gukq5RAALxuDEbTGcoSXx1BREQl_waAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 7,
+    "name": "Cho\u0027qintirgan ota(2-qism)",
+    "author": "Mario Pyuao",
+    "bookType": "Printer_Book",
+    "category": {
+      "id": 1,
+      "nameUz": "🏳️ JAHON ADABIYOTI",
+      "nameRu": "🏳️ МИРОВАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 35000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIQvGIl41VOEvYN6ahishfS5Cqi-mzwAALyuDEbTGcoSXU-ZYlYraUCAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 8,
+    "name": "Cho\u0027qintirgan ota(2-qism)",
+    "author": "Mario Pyuao",
+    "bookType": "Printer_Book",
+    "category": {
+      "id": 1,
+      "nameUz": "🏳️ JAHON ADABIYOTI",
+      "nameRu": "🏳️ МИРОВАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 45000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIQzmIl461LWWuToFn_gaI0Qnc2CKjdAALzuDEbTGcoSUYz7HUI7zvQAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 9,
+    "name": "Jannati odamlar",
+    "author": "Hudoberdi To\u0027xtaboyev",
+    "bookType": "Audio_Book",
+    "category": {
+      "id": 3,
+      "nameUz": "🧙‍♀ BOLALAR ADABIYOTI",
+      "nameRu": "🧙‍♀ ДЕТСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 7000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIQ9WIl5OdM3N6knDWuQ6Kb_2ulHfcqAAL4uDEbTGcoSXwCPiGzwGYEAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 10,
+    "name": "Dunyoning ishlari",
+    "author": "O\u0027tkir Hoshimov",
+    "bookType": "Audio_Book",
+    "category": {
+      "id": 3,
+      "nameUz": "🧙‍♀ BOLALAR ADABIYOTI",
+      "nameRu": "🧙‍♀ ДЕТСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 12000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIQ_mIl5UCRAe3UJyZ0qRwuhbRXVVBgAAL9uDEbTGcoSQ7uCknWzDuBAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 11,
+    "name": "Jahon ertaklari",
+    "author": "muallifsiz",
+    "bookType": "Electron_Book",
+    "category": {
+      "id": 3,
+      "nameUz": "🧙‍♀ BOLALAR ADABIYOTI",
+      "nameRu": "🧙‍♀ ДЕТСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 12000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIRB2Il5cSkIkys8pGmXlS7TYBIWNjmAAL_uDEbTGcoSYdZwspErmfTAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 12,
+    "name": "Ona tarbiyasi",
+    "author": "Fredirex Nitshe",
+    "bookType": "Electron_Book",
+    "category": {
+      "id": 3,
+      "nameUz": "🧙‍♀ BOLALAR ADABIYOTI",
+      "nameRu": "🧙‍♀ ДЕТСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 5000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIREWIl5hPQwhuZGwVcjZHrlj_xUTcVAAIBuTEbTGcoSU5UzL6ANO3XAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 13,
+    "name": "Bahorning 17 daqiqasi",
+    "author": "Yulian Semyonov",
+    "bookType": "Electron_Book",
+    "category": {
+      "id": 3,
+      "nameUz": "🧙‍♀ BOLALAR ADABIYOTI",
+      "nameRu": "🧙‍♀ ДЕТСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 9000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIRGmIl5vMP9iOY2R6HlEly5zEh8mPnAAILuTEbTGcoSco9U2sgwBcYAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 14,
+    "name": "Sohibqiron",
+    "author": "Abdulla Oripov",
+    "bookType": "Audio_Book",
+    "category": {
+      "id": 2,
+      "nameUz": "🇺🇿 UZBEK ADABIYOTI",
+      "nameRu": "🇺🇿 УЗБЕКСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 15000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIRLGIl58qwTAVgsaW_biSsIkIAARXzeQACDLkxG0xnKEm44YG3U5OaSQEAAwIAA20AAyME",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 15,
+    "name": "Ishbilarmon kishilar",
+    "author": "O\u0027Genri",
+    "bookType": "Electron_Book",
+    "category": {
+      "id": 1,
+      "nameUz": "🏳️ JAHON ADABIYOTI",
+      "nameRu": "🏳️ МИРОВАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 7000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIRNWIl6A0smyTTOgh7hQTjEDW8OEk-AAIQuTEbTGcoScO_qTfU6YXiAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 16,
+    "name": "Buqalamun",
+    "author": "Anton Chexov",
+    "bookType": "Audio_Book",
+    "category": {
+      "id": 1,
+      "nameUz": "🏳️ JAHON ADABIYOTI",
+      "nameRu": "🏳️ МИРОВАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 8000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIRRGIl6K_sFA_WPAgNQdoB3Uz5emZ0AAITuTEbTGcoSU9yG_FeZGPyAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 17,
+    "name": "Yolg\u0027izlikning yuz yili",
+    "author": "Garsia Markos",
+    "bookType": "Audio_Book",
+    "category": {
+      "id": 1,
+      "nameUz": "🏳️ JAHON ADABIYOTI",
+      "nameRu": "🏳️ МИРОВАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 20000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIRTWIl6TB2nqOXpskNSmLkn3bx4bnjAAIVuTEbTGcoSeeavxrotHwiAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 18,
+    "name": "Merosxo\u0027r",
+    "author": "Robert Luis",
+    "bookType": "Electron_Book",
+    "category": {
+      "id": 1,
+      "nameUz": "🏳️ JAHON ADABIYOTI",
+      "nameRu": "🏳️ МИРОВАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 11000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIRaWIl6ba1tTvavSLPImJ_Prdx6DK8AAIbuTEbTGcoST3lYtua0v8QAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 19,
+    "name": "Alvido bolalik",
+    "author": "Tohir Malik",
+    "bookType": "Electron_Book",
+    "category": {
+      "id": 2,
+      "nameUz": "🇺🇿 UZBEK ADABIYOTI",
+      "nameRu": "🇺🇿 УЗБЕКСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 9000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAISqGIssfK0FBimYV7wN6ZSjZJbM_VrAALcuTEbOnFpSWkL-ROOK4pBAQADAgADeAADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 20,
+    "name": "Baht saroyi",
+    "author": "Tohir Malik",
+    "bookType": "Electron_Book",
+    "category": {
+      "id": 2,
+      "nameUz": "🇺🇿 UZBEK ADABIYOTI",
+      "nameRu": "🇺🇿 УЗБЕКСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 12000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIRfmIl6n2sUR7x4isl7d83cxweRlveAAIhuTEbTGcoSRfLpibpF7eZAQADAgADeAADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 21,
+    "name": "Shaytanat(2-qism)",
+    "author": "Tohir Malik",
+    "bookType": "Printer_Book",
+    "category": {
+      "id": 2,
+      "nameUz": "🇺🇿 UZBEK ADABIYOTI",
+      "nameRu": "🇺🇿 УЗБЕКСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": false,
+    "price": 34000.0,
+    "language": "o\u0027zbek",
+    "urlPhoto": "AgACAgIAAxkBAAIRh2Il61F8IEmY714iZ5VWtaPI5J9mAAIluTEbTGcoScG6kcItcxAGAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 22,
+    "name": "A",
+    "author": "A",
+    "bookType": "Electron_Book",
+    "category": {
+      "id": 1,
+      "nameUz": "🏳️ JAHON ADABIYOTI",
+      "nameRu": "🏳️ МИРОВАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": true,
+    "price": 12.0,
+    "language": "O\u0027ZBEK",
+    "urlPhoto": "AgACAgIAAxkBAAISRGInLcK9vKIOMSMVtjWXCA_zxW17AALVuTEbvRE5SflNEPkW-fumAQADAgADbQADIwQ",
+    "statusBook": "CREATE"
+  },
+  {
+    "id": 23,
+    "name": "aaa",
+    "author": "aaa",
+    "bookType": "Electron_Book",
+    "category": {
+      "id": 3,
+      "nameUz": "🧙‍♀ BOLALAR ADABIYOTI",
+      "nameRu": "🧙‍♀ ДЕТСКАЯ ЛИТЕРАТУРА",
+      "isDelete": false,
+      "status": "CREATE"
+    },
+    "isBlock": true,
+    "price": 12000.0,
+    "language": "aaa",
+    "urlPhoto": "AgACAgIAAxkBAAIS_GIts4sZ4kTbwW5Gy4PyrS9IZbwLAALWujEb9DJxSYdLm1pHv7FXAQADAgADeQADIwQ",
+    "statusBook": "CREATE"
+  }
+]

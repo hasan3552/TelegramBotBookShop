@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1666912639",
+    "firstName": "HASAN",
+    "contact": "+998995963552",
+    "language": "RU",
+    "details": [],
+    "historySale": [
+      {
+        "detail": {
+          "buyTime": "13.03.2022  13:59",
+          "book": {
+            "id": 2,
+            "name": "Shaytanat (1-qism)",
+            "author": "Tohir Malik",
+            "bookType": "Printer_Book",
+            "category": {
+              "id": 2,
+              "nameUz": "🇺🇿 UZBEK ADABIYOTI",
+              "nameRu": "🇺🇿 УЗБЕКСКАЯ ЛИТЕРАТУРА",
+              "isDelete": false
+            },
+            "isBlock": false,
+            "price": 56000.0,
+            "language": "Uzbek",
+            "urlPhoto": "AgACAgIAAxkBAAINf2IjIJbabwarQ8kjP0RNzzNFXgWkAAKItzEbLYEgSVkm8QngofDrAQADAgADbQADIwQ",
+            "statusBook": "CREATE"
+          },
+          "number": 5,
+          "delivered": false
+        },
+        "location": "late:41.327412 lng: 69.22797",
+        "statusOrder": {
+          "id": 1,
+          "nameUz": "YANGI",
+          "nameRu": "НОВЫЙ"
+        }
+      }
+    ],
+    "isBlock": false
+  }
+]

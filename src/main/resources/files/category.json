@@ -1,0 +1,30 @@
+[
+  {
+    "id": 3,
+    "nameUz": "🧙‍♀ BOLALAR ADABIYOTI",
+    "nameRu": "🧙‍♀ ДЕТСКАЯ ЛИТЕРАТУРА",
+    "isDelete": false,
+    "status": "CREATE"
+  },
+  {
+    "id": 2,
+    "nameUz": "🇺🇿 UZBEK ADABIYOTI",
+    "nameRu": "🇺🇿 УЗБЕКСКАЯ ЛИТЕРАТУРА",
+    "isDelete": false,
+    "status": "CREATE"
+  },
+  {
+    "id": 1,
+    "nameUz": "🏳️ JAHON ADABIYOTI",
+    "nameRu": "🏳️ МИРОВАЯ ЛИТЕРАТУРА",
+    "isDelete": false,
+    "status": "CREATE"
+  },
+  {
+    "id": 4,
+    "nameUz": "nomi",
+    "nameRu": "nomi",
+    "isDelete": true,
+    "status": "CREATE"
+  }
+]
